@@ -46,3 +46,16 @@
 5. Save results in .xlsx file
 
 ![statefarm](https://i.imgur.com/iaNpgp1.png)
+
+## 5th spider
+## Scraping all construction equipment  
+
+#### Algorithm
+1. Go only through manufacturers that have many models of equipment
+2. Get all available models for each manufacturer
+3. Scrape 2 fields: Make, Model
+4. Save results in .csv file
+
+![machinerytrader](https://i.imgur.com/hCNSo1r.jpg)  
+
+![machinerytrader_models](https://i.imgur.com/sSfATLq.png)
